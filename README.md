@@ -1,5 +1,5 @@
-- Primer intento de página web creada para el emprendimiento de Sweet Lemon Pastelería. 
-- Aprendí: 
+Primer intento de página web creada para el emprendimiento de Sweet Lemon Pastelería. 
+Aprendí: 
  - Diseño Responsive
  - Mejor uso de IDs.
  - Incoporación de NPM y Vite. 
